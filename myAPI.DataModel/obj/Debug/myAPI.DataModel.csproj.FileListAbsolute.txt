@@ -1,0 +1,14 @@
+C:\Users\Mirza Rasidagic\source\repos\myAPI\myAPI.DataModel\bin\Debug\myAPI.DataModel.dll.config
+C:\Users\Mirza Rasidagic\source\repos\myAPI\myAPI.DataModel\bin\Debug\myAPI.DataModel.dll
+C:\Users\Mirza Rasidagic\source\repos\myAPI\myAPI.DataModel\bin\Debug\myAPI.DataModel.pdb
+C:\Users\Mirza Rasidagic\source\repos\myAPI\myAPI.DataModel\bin\Debug\EntityFramework.dll
+C:\Users\Mirza Rasidagic\source\repos\myAPI\myAPI.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mirza Rasidagic\source\repos\myAPI\myAPI.DataModel\bin\Debug\myAPI.ClassModel.dll
+C:\Users\Mirza Rasidagic\source\repos\myAPI\myAPI.DataModel\bin\Debug\myAPI.ClassModel.pdb
+C:\Users\Mirza Rasidagic\source\repos\myAPI\myAPI.DataModel\bin\Debug\EntityFramework.xml
+C:\Users\Mirza Rasidagic\source\repos\myAPI\myAPI.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mirza Rasidagic\source\repos\myAPI\myAPI.DataModel\obj\Debug\myAPI.DataModel.csprojAssemblyReference.cache
+C:\Users\Mirza Rasidagic\source\repos\myAPI\myAPI.DataModel\obj\Debug\myAPI.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Mirza Rasidagic\source\repos\myAPI\myAPI.DataModel\obj\Debug\myAPI.DataModel.csproj.CopyComplete
+C:\Users\Mirza Rasidagic\source\repos\myAPI\myAPI.DataModel\obj\Debug\myAPI.DataModel.dll
+C:\Users\Mirza Rasidagic\source\repos\myAPI\myAPI.DataModel\obj\Debug\myAPI.DataModel.pdb

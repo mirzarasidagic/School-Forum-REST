@@ -1,0 +1,6 @@
+C:\Users\Mirza Rasidagic\source\repos\myAPI\myAPI.ClassModel\bin\Debug\myAPI.ClassModel.dll
+C:\Users\Mirza Rasidagic\source\repos\myAPI\myAPI.ClassModel\bin\Debug\myAPI.ClassModel.pdb
+C:\Users\Mirza Rasidagic\source\repos\myAPI\myAPI.ClassModel\obj\Debug\myAPI.ClassModel.csprojAssemblyReference.cache
+C:\Users\Mirza Rasidagic\source\repos\myAPI\myAPI.ClassModel\obj\Debug\myAPI.ClassModel.csproj.CoreCompileInputs.cache
+C:\Users\Mirza Rasidagic\source\repos\myAPI\myAPI.ClassModel\obj\Debug\myAPI.ClassModel.dll
+C:\Users\Mirza Rasidagic\source\repos\myAPI\myAPI.ClassModel\obj\Debug\myAPI.ClassModel.pdb
