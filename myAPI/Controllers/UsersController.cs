@@ -9,14 +9,11 @@ using System.Web.Http;
 
 namespace myAPI.Controllers
 {
-    /// <summary>
-    /// This is where I give you all the information about users.
-    /// </summary>
     public class UsersController : ApiController
     {
 
-        //List<User> users = new List<User>();
         IUserServices _userService = null;
+        IPostServices _postService = null;
 
         public UsersController()
         {
@@ -27,6 +24,7 @@ namespace myAPI.Controllers
 
         }
 
+       
         
         // GET: api/Users
         public List<User> Get()
@@ -40,11 +38,12 @@ namespace myAPI.Controllers
             return _userService.GetUserById(id);
         }
 
-        // POST: api/Users
-        public void Post(User val)
+        // GET User by post Id
+        public User GetUserByPostId(int id)
         {
-           // users.Add(val);
+            return _postService.GetUserByPost(id);
         }
 
+        
     }
 }

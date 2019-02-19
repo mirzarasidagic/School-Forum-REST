@@ -14,27 +14,31 @@ namespace myAPI.ClassModel
         /// <summary>
         /// Id from SQL
         /// </summary>
-        public int id { get; set; }
+        public int Id { get; set; }
         /// <summary>
         /// The user's name.
         /// </summary>
-        public string name { get; set; }
+        public string Name { get; set; }
+        /// <summary>
+        /// The user's lastname.
+        /// </summary>
+        public string Lastname { get; set; }
         /// <summary>
         /// The user's username.
         /// </summary>
-        public string username { get; set; } 
+        public string Username { get; set; } 
         /// <summary>
         /// The users Email adress.
         /// </summary>
-        public string email { get; set; }
+        public string Email { get; set; }
         /// <summary>
         /// The users Website.
         /// </summary>
-        public string website { get; set; }
+        public string Website { get; set; }
         /// <summary>
         /// The users phone number
         /// </summary>
-        public string phone { get; set; }
+        public string Phone { get; set; }
 
     }
 }

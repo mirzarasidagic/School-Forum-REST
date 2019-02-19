@@ -11,9 +11,9 @@ namespace myAPI.Services
     {
         List<Post> GetAllPosts();
 
-        User GetUserOfPost(int id);
+        User GetUserByPost(int id);
 
-        List<Post> GetAllPostOfUser(int id);
+        List<Post> GetAllPostsByUser(int id);
 
 
     }
