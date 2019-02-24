@@ -26,7 +26,7 @@ namespace myAPI.Services
             User userByID = null;
             using (var context = new MyAPIContext())
             {
-                userByID = context.Users.Single(s => s.Id == id);
+                userByID = context.Users.FirstOrDefault(s => s.Id == id);
             }
 
             return userByID;
