@@ -39,6 +39,7 @@ namespace myAPI.ClassModel
         /// The users phone number
         /// </summary>
         public string Phone { get; set; }
+        
 
     }
 }

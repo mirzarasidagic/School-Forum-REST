@@ -1,0 +1,15 @@
+D:\Programiranje\Projekat-Forum\myAPI\myAPI.Services\bin\Debug\myAPI.Services.dll
+D:\Programiranje\Projekat-Forum\myAPI\myAPI.Services\bin\Debug\myAPI.Services.pdb
+D:\Programiranje\Projekat-Forum\myAPI\myAPI.Services\bin\Debug\EntityFramework.dll
+D:\Programiranje\Projekat-Forum\myAPI\myAPI.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programiranje\Projekat-Forum\myAPI\myAPI.Services\bin\Debug\myAPI.ClassModel.dll
+D:\Programiranje\Projekat-Forum\myAPI\myAPI.Services\bin\Debug\myAPI.DataModel.dll
+D:\Programiranje\Projekat-Forum\myAPI\myAPI.Services\bin\Debug\myAPI.ClassModel.pdb
+D:\Programiranje\Projekat-Forum\myAPI\myAPI.Services\bin\Debug\myAPI.DataModel.pdb
+D:\Programiranje\Projekat-Forum\myAPI\myAPI.Services\bin\Debug\EntityFramework.xml
+D:\Programiranje\Projekat-Forum\myAPI\myAPI.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programiranje\Projekat-Forum\myAPI\myAPI.Services\obj\Debug\myAPI.Services.csprojAssemblyReference.cache
+D:\Programiranje\Projekat-Forum\myAPI\myAPI.Services\obj\Debug\myAPI.Services.csproj.CoreCompileInputs.cache
+D:\Programiranje\Projekat-Forum\myAPI\myAPI.Services\obj\Debug\myAPI.Services.csproj.CopyComplete
+D:\Programiranje\Projekat-Forum\myAPI\myAPI.Services\obj\Debug\myAPI.Services.dll
+D:\Programiranje\Projekat-Forum\myAPI\myAPI.Services\obj\Debug\myAPI.Services.pdb

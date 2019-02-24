@@ -11,11 +11,7 @@ namespace myAPI.DataModel
     public class MyAPIContext : DbContext
   
     {
-        public MyAPIContext() : base("SchoolDBConnectionString")
-        {
        
-        }
-
         public DbSet<User> Users { get; set; }  
 
         public DbSet<Post> Posts { get; set; }

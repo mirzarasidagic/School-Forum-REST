@@ -12,3 +12,18 @@ C:\Users\Mirza Rasidagic\source\repos\myAPI\myAPI.DataModel\obj\Debug\myAPI.Data
 C:\Users\Mirza Rasidagic\source\repos\myAPI\myAPI.DataModel\obj\Debug\myAPI.DataModel.csproj.CopyComplete
 C:\Users\Mirza Rasidagic\source\repos\myAPI\myAPI.DataModel\obj\Debug\myAPI.DataModel.dll
 C:\Users\Mirza Rasidagic\source\repos\myAPI\myAPI.DataModel\obj\Debug\myAPI.DataModel.pdb
+D:\Programiranje\Projekat-Forum\myAPI\myAPI.DataModel\bin\Debug\myAPI.DataModel.dll
+D:\Programiranje\Projekat-Forum\myAPI\myAPI.DataModel\bin\Debug\myAPI.DataModel.pdb
+D:\Programiranje\Projekat-Forum\myAPI\myAPI.DataModel\bin\Debug\EntityFramework.dll
+D:\Programiranje\Projekat-Forum\myAPI\myAPI.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programiranje\Projekat-Forum\myAPI\myAPI.DataModel\bin\Debug\myAPI.ClassModel.dll
+D:\Programiranje\Projekat-Forum\myAPI\myAPI.DataModel\bin\Debug\myAPI.ClassModel.pdb
+D:\Programiranje\Projekat-Forum\myAPI\myAPI.DataModel\bin\Debug\EntityFramework.xml
+D:\Programiranje\Projekat-Forum\myAPI\myAPI.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programiranje\Projekat-Forum\myAPI\myAPI.DataModel\obj\Debug\myAPI.DataModel.csprojAssemblyReference.cache
+D:\Programiranje\Projekat-Forum\myAPI\myAPI.DataModel\obj\Debug\myAPI.DataModel.csproj.CoreCompileInputs.cache
+D:\Programiranje\Projekat-Forum\myAPI\myAPI.DataModel\obj\Debug\myAPI.DataModel.csproj.CopyComplete
+D:\Programiranje\Projekat-Forum\myAPI\myAPI.DataModel\obj\Debug\myAPI.DataModel.dll
+D:\Programiranje\Projekat-Forum\myAPI\myAPI.DataModel\obj\Debug\myAPI.DataModel.pdb
+D:\Programiranje\Projekat-Forum\myAPI\myAPI.DataModel\obj\Debug\myAPI.DataModel.Migrations.Initial.resources
+D:\Programiranje\Projekat-Forum\myAPI\myAPI.DataModel\obj\Debug\myAPI.DataModel.csproj.GenerateResource.cache

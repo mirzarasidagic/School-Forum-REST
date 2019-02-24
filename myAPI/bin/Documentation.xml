@@ -481,45 +481,5 @@
             </summary>
             <param name="documentPath">The physical path to XML document.</param>
         </member>
-        <member name="T:myAPI.Controllers.UsersController">
-            <summary>
-            This is where I give you all the information about users.
-            </summary>
-        </member>
-        <member name="T:myAPI.Models.User">
-            <summary>
-            Represents one specific user
-            </summary>
-        </member>
-        <member name="P:myAPI.Models.User.id">
-            <summary>
-            Id from SQL
-            </summary>
-        </member>
-        <member name="P:myAPI.Models.User.name">
-            <summary>
-            The user's name.
-            </summary>
-        </member>
-        <member name="P:myAPI.Models.User.username">
-            <summary>
-            The user's username.
-            </summary>
-        </member>
-        <member name="P:myAPI.Models.User.email">
-            <summary>
-            The users Email adress.
-            </summary>
-        </member>
-        <member name="P:myAPI.Models.User.website">
-            <summary>
-            The users Website.
-            </summary>
-        </member>
-        <member name="P:myAPI.Models.User.phone">
-            <summary>
-            The users phone number
-            </summary>
-        </member>
     </members>
 </doc>
